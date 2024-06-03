@@ -1,5 +1,5 @@
 ## Github getting started
-In this course, I am taught to navigate Github successfulyl
+In this course, I am taught to navigate Github successfuly
 
 ## The basics
 Understand use of Github
