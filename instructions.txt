@@ -1,6 +1,3 @@
 Instructions for deploying this site to the server
 -------------------------------------
 Lorem ipsum dolor sit emet, keut iton gronare boldokash
-
-Installization on Instructions
-------
